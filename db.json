@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "huduma collection",
+      "day": "Thursday",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
